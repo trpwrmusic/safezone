@@ -1,10 +1,10 @@
 # SafeZone
 
 ## Librarys (must install)
-folium
+⋅⋅* folium
 ```python
 pip install folium
 ```
 
 ## Run
-### Run app.py tp see a demo area.
+#### Run app.py tp see a demo area.
