@@ -1,7 +1,7 @@
 # SafeZone
 
 ## Librarys (must install)
-⋅⋅* folium
+⋅ folium
 ```python
 pip install folium
 ```
